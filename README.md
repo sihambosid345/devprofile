@@ -25,7 +25,7 @@ DevProfile est une application web construite avec Laravel 11 permettant aux uti
 ### Étapes
 
 ```bash
-git clone https://github.com/votre-utilisateur/devprofile.git
+git clone https://github.com/sihambosid345/devprofile.git
 cd devprofile
 
 # Installer les dépendances
@@ -47,4 +47,4 @@ DB_PASSWORD=
 php artisan migrate
 
 # Lancer le serveur
-php artisan serve
+php artisan serve --port 8004
